@@ -4,6 +4,9 @@ Bootstrap website for training courses, workshops, seminars, etc. It has a mixed
 
 <img src="./images/screen.png" />
 
+## Demo
+
+You can view a live demo of the project at [Corso Website Link](https://corso-website-1jm.pages.dev/).
 ## Features
 
 - Modern layout with custom colors/styles/backgrounds
